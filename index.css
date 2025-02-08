@@ -489,6 +489,8 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 .work__image-box {
+    /*you can delete this*/
+    display:block;
     margin-bottom: var(--gutter-normal);
 }
 
